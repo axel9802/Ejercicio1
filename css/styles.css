@@ -1,0 +1,153 @@
+.weight-400{
+    font-weight: 400px;
+}
+.weight-500{
+    font-weight: 500px;
+}
+.weight-700{
+    font-weight: 700px;
+}
+
+.derecha-estrella{
+    background-color:hsl(300, 24%, 85%);
+}
+
+.parrafo-comentario{
+    color: hsl(303, 10%, 53%);
+}
+
+.verified{
+    color: hsl(333, 45%, 47%);
+}
+
+
+body{
+    font-size: 15px;
+}
+
+.parte-arriba{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenido-izquierda{
+    margin: 10% 5% 0% 10%;
+    
+}
+
+section > main > h1{
+    margin-bottom: 0%;
+}
+
+.encabezado-izquierda{
+    width: 400px;
+    font-size: 40px;
+    color:hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    
+}
+
+.contenido-izquierda > p{
+    width: 500px;
+    font-family: 'Spartan', sans-serif;
+    color: hsl(303, 10%, 53%);
+}
+
+.contenido-derecha{
+   margin-top: 12%;
+    margin-right: 10%;
+    color: hsl(300, 43%, 22%);
+}
+
+.reviews{
+    padding: 15px 60px 20px 25px;
+    margin-top: 0%;
+    margin-right: 25%;
+    margin-left: -25%;
+    border-radius: 5px;
+}
+
+.guru{   
+   padding: 15px 60px 20px 25px;
+   margin-top: 0%;
+   margin-right: 12%;
+   margin-left: -12%;
+   border-radius: 5px;
+  
+}
+
+.besttech{
+    padding: 15px 60px 20px 25px;
+    margin-top: 0%;
+    border-radius: 5px;
+
+}
+
+.derecha-estrella{
+    display: flex;
+    justify-content: space-between;
+}
+
+.comentarios{
+    display: flex;
+    justify-content: space-between;
+}
+
+.comentario1{
+   margin: 5% 1% 12% 10%;
+    width: 100%;
+    background-color:  hsl(300, 71%, 15%);
+    border-radius: 5px;
+    padding: 20px;
+}
+.comentario2{
+    margin: 6% 1% 11% 1%;
+    width: 100%;
+    background-color: hsl(300, 71%, 15%);
+    border-radius: 5px;
+    padding: 20px;
+}
+.comentario3{
+    margin: 7% 10% 10% 1%;
+    width: 100%;
+    background-color: hsl(300, 71%, 15%);
+    border-radius: 5px;
+    padding: 20px;
+}
+.nombre-comentario{
+    color: hsl(0, 0%, 100%);
+    text-align: right;
+    
+
+}
+article > img{
+    width: 10%;
+    border-radius: 20px;
+}
+
+
+/*# Front-end Style Guide
+
+- Mobile: 375px
+- Desktop: 1440px
+### Primary
+
+Very Dark Magenta: hsl(300, 43%, 22%) yata
+Soft Pink: hsl(333, 80%, 67%) verified
+
+### Neutral
+
+Dark Grayish Magenta: hsl(303, 10%, 53%) letras
+Light Grayish Magenta: hsl(300, 24%, 96%)
+White: hsl(0, 0%, 100%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 15px
+
+### Font
+
+- Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+- Weights: 400, 500, 700*/
